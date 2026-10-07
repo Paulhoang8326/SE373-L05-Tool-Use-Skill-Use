@@ -1,0 +1,7 @@
+{
+  "prompt": "Kiểm tra data/workload.csv, người nào vượt 8 giờ? Ghi báo cáo vào output/workload.md.",
+  "trace": "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-2/traces/20261007-211112_4d28eff9_turn01_2caaa77c.jsonl",
+  "answer": "Đã kiểm tra `data/workload.csv` và tạo báo cáo tại `output/workload.md`. Lan là người quá tải với 9.0 giờ làm việc, vượt ngưỡng 8 giờ.",
+  "error": null,
+  "conversation_id": "4d28eff9b05b42dca4d9d586949610c4"
+}

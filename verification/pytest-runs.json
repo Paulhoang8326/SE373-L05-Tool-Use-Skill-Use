@@ -1,0 +1,54 @@
+[
+  {
+    "stage": "stage-01-files",
+    "command": [
+      "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/.runtime/venv/bin/python",
+      "-m",
+      "pytest",
+      "-q",
+      "-ra"
+    ],
+    "cwd": "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-1/stage-01-files",
+    "exit_code": 0,
+    "log": "verification/stage-01-files-pytest.txt"
+  },
+  {
+    "stage": "stage-02-skills",
+    "command": [
+      "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/.runtime/venv/bin/python",
+      "-m",
+      "pytest",
+      "-q",
+      "-ra"
+    ],
+    "cwd": "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-1/stage-02-skills",
+    "exit_code": 0,
+    "log": "verification/stage-02-skills-pytest.txt"
+  },
+  {
+    "stage": "stage-03-bash",
+    "command": [
+      "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/.runtime/venv/bin/python",
+      "-m",
+      "pytest",
+      "-q",
+      "-ra"
+    ],
+    "cwd": "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-2/stage-03-bash",
+    "exit_code": 0,
+    "log": "verification/stage-03-bash-pytest.txt"
+  },
+  {
+    "stage": "stage-04-script-skill",
+    "command": [
+      "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/.runtime/venv/bin/python",
+      "-m",
+      "pytest",
+      "-q",
+      "-ra"
+    ],
+    "cwd": "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-2/stage-04-script-skill",
+    "exit_code": 0,
+    "log": "verification/stage-04-script-skill-pytest.txt"
+  }
+]

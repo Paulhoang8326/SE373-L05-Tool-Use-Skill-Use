@@ -1,0 +1,66 @@
+[
+  {
+    "stage": "stage-01-files",
+    "directory": "workspace",
+    "old": "policy-before-oct.md",
+    "new": "refund-alpha.md",
+    "sha256_before": "9D423A4DE44B71E788F3338B96751DDEF36695ADD6B1FEC141CA05A6C149DCCA",
+    "sha256_after": "9D423A4DE44B71E788F3338B96751DDEF36695ADD6B1FEC141CA05A6C149DCCA"
+  },
+  {
+    "stage": "stage-01-files",
+    "directory": "workspace",
+    "old": "policy-from-oct.md",
+    "new": "refund-beta.md",
+    "sha256_before": "032CB547D275FCE0F8C8F335A5F5D6305C2A832AC26DEFC05871AD79AD23A7B9",
+    "sha256_after": "032CB547D275FCE0F8C8F335A5F5D6305C2A832AC26DEFC05871AD79AD23A7B9"
+  },
+  {
+    "stage": "stage-01-files",
+    "directory": "fixtures",
+    "old": "policy-before-oct.md",
+    "new": "refund-alpha.md",
+    "sha256_before": "9D423A4DE44B71E788F3338B96751DDEF36695ADD6B1FEC141CA05A6C149DCCA",
+    "sha256_after": "9D423A4DE44B71E788F3338B96751DDEF36695ADD6B1FEC141CA05A6C149DCCA"
+  },
+  {
+    "stage": "stage-01-files",
+    "directory": "fixtures",
+    "old": "policy-from-oct.md",
+    "new": "refund-beta.md",
+    "sha256_before": "032CB547D275FCE0F8C8F335A5F5D6305C2A832AC26DEFC05871AD79AD23A7B9",
+    "sha256_after": "032CB547D275FCE0F8C8F335A5F5D6305C2A832AC26DEFC05871AD79AD23A7B9"
+  },
+  {
+    "stage": "stage-02-skills",
+    "directory": "workspace",
+    "old": "policy-before-oct.md",
+    "new": "refund-alpha.md",
+    "sha256_before": "9D423A4DE44B71E788F3338B96751DDEF36695ADD6B1FEC141CA05A6C149DCCA",
+    "sha256_after": "9D423A4DE44B71E788F3338B96751DDEF36695ADD6B1FEC141CA05A6C149DCCA"
+  },
+  {
+    "stage": "stage-02-skills",
+    "directory": "workspace",
+    "old": "policy-from-oct.md",
+    "new": "refund-beta.md",
+    "sha256_before": "032CB547D275FCE0F8C8F335A5F5D6305C2A832AC26DEFC05871AD79AD23A7B9",
+    "sha256_after": "032CB547D275FCE0F8C8F335A5F5D6305C2A832AC26DEFC05871AD79AD23A7B9"
+  },
+  {
+    "stage": "stage-02-skills",
+    "directory": "fixtures",
+    "old": "policy-before-oct.md",
+    "new": "refund-alpha.md",
+    "sha256_before": "9D423A4DE44B71E788F3338B96751DDEF36695ADD6B1FEC141CA05A6C149DCCA",
+    "sha256_after": "9D423A4DE44B71E788F3338B96751DDEF36695ADD6B1FEC141CA05A6C149DCCA"
+  },
+  {
+    "stage": "stage-02-skills",
+    "directory": "fixtures",
+    "old": "policy-from-oct.md",
+    "new": "refund-beta.md",
+    "sha256_before": "032CB547D275FCE0F8C8F335A5F5D6305C2A832AC26DEFC05871AD79AD23A7B9",
+    "sha256_after": "032CB547D275FCE0F8C8F335A5F5D6305C2A832AC26DEFC05871AD79AD23A7B9"
+  }
+]

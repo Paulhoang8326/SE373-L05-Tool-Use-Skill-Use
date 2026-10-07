@@ -1,0 +1,726 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "4409B253AC33ACB862192F9CAD8583ED3FE0BAC938082A6CFA784D7CF0D185EF"
+  },
+  {
+    "path": "pyproject.toml",
+    "sha256": "4E96ED3B1F3E3244C72767A49EAC91B2F60E65FBD7D82C83AA26562D75ACB290"
+  },
+  {
+    "path": "README.md",
+    "sha256": "38310F30890F4E41D2B03275D99E5A808C7B013A2EA1005CCC8573155CFE3049"
+  },
+  {
+    "path": "STAGE-DIFFS.md",
+    "sha256": "90A8D81864A9639C0F80C18B0E1281C92996410C48F70C627E0407B5CD3D1C28"
+  },
+  {
+    "path": "uv.lock",
+    "sha256": "79836F0EF19974AEDCE5D95FB659E6755B9448531B6D779F71E2CB9400885744"
+  },
+  {
+    "path": "verification.md",
+    "sha256": "BCC72166FB74DCE484B1729E07BAF900A74B4E342F6DE16DE805400A50D9F3CD"
+  },
+  {
+    "path": "stage-00-chat\\.env.example",
+    "sha256": "B4967E57953F82A8C5194393706A33264560734A0F72A654DFF5F72854774CD4"
+  },
+  {
+    "path": "stage-00-chat\\.gitignore",
+    "sha256": "6BD84695D439578119B14B8C4E8860E0B8F2E1DD1EC1275C18D1954B60041CA1"
+  },
+  {
+    "path": "stage-00-chat\\agent.py",
+    "sha256": "DDE2D1D5366BA0CA08E02B9C94F95691CB0246BF005BEF24457EE4F514127DF6"
+  },
+  {
+    "path": "stage-00-chat\\app.py",
+    "sha256": "DBEF9AC0FD02228218AB7E32B798A8A4174FBA13B128BC463F2BC1E489CEC397"
+  },
+  {
+    "path": "stage-00-chat\\config.py",
+    "sha256": "4CEEBB3CEE9F3AD42072134DFE8A94451A7A4CE6477431E6452F500CAB53DF3E"
+  },
+  {
+    "path": "stage-00-chat\\explainer.html",
+    "sha256": "CC8502F8FE68449CA5DEC5C8FAF5B7C99E2B1D77CA33D225E69FAA47FCAB303A"
+  },
+  {
+    "path": "stage-00-chat\\observer.py",
+    "sha256": "83AE8ECE34A563166B03E149BABBD060ED3E08ED703B36B137A48C7200B03556"
+  },
+  {
+    "path": "stage-00-chat\\paths.py",
+    "sha256": "DEED5C1DDB37C63977C4BE1CEEF37FCC2A214D2159359443D5A884D22B6556AA"
+  },
+  {
+    "path": "stage-00-chat\\prompts.py",
+    "sha256": "CC6D18268B4BBDAECDA7B3C1CA4E11FE955A8FF7EBF1239C5EF5894D000263D2"
+  },
+  {
+    "path": "stage-00-chat\\pyproject.toml",
+    "sha256": "CC7FE7CBC31C105DAD5CE168FDD3B1AAD2448750B7950373AFC36DE6D4AE0A3A"
+  },
+  {
+    "path": "stage-00-chat\\README.md",
+    "sha256": "E197705102E752EAECC8CF954F966394AE3054764ED51508C075027CE5F6B40C"
+  },
+  {
+    "path": "stage-00-chat\\trace.py",
+    "sha256": "7ECFA81861CF3EAF23399F4CA250ACC188B4630EE25174050729EEADEB3C1967"
+  },
+  {
+    "path": "stage-00-chat\\.streamlit\\config.toml",
+    "sha256": "EA2A4F2E5515A5382A9DFA5F1B3CE83AFF5630825779D206E14B1F66A5291CAF"
+  },
+  {
+    "path": "stage-00-chat\\tests\\__init__.py",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-00-chat\\tests\\conftest.py",
+    "sha256": "9568FC7BD0A95AF6A220D2532924AF7C8C9B286C48D09E3531E0CF6FF1A102A3"
+  },
+  {
+    "path": "stage-00-chat\\tests\\test_agent.py",
+    "sha256": "F6A45C22F02A95F51703A19A731D84B450543BD44CF6BCB85BBFBBE69EB7E8F3"
+  },
+  {
+    "path": "stage-00-chat\\tests\\test_app.py",
+    "sha256": "BE4F0377CAA47BB7E456BC8770402918885A3914BC0DBCC7EFD0A8003B607830"
+  },
+  {
+    "path": "stage-00-chat\\tests\\test_observer.py",
+    "sha256": "A5AF35FAA60423CF9A1C42D5D556E8320D8ED8FFE99798F54008BB52B771DFDE"
+  },
+  {
+    "path": "stage-00-chat\\tests\\test_project.py",
+    "sha256": "74615627B74DC2DEC8ED4BF4B5DDEF5DB7D7197467FCDF5E1ECA3132A363B851"
+  },
+  {
+    "path": "stage-00-chat\\traces\\.gitkeep",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-00-chat\\traces\\20261004-221225_d3dc1552_turn01_40e7b60c.jsonl",
+    "sha256": "50D231D48CBFF6FC857D841B0955C039F1E7E0A5B0E8D8F1BD0C9950513B1B83"
+  },
+  {
+    "path": "stage-00-chat\\traces\\20261004-222434_b2202df6_turn01_a884e8f4.jsonl",
+    "sha256": "65FC353296E727407DDCBCBBA077E3F325E0D80EE7332A3A1D7AB1D55D6F3BEB"
+  },
+  {
+    "path": "stage-00-chat\\traces\\20261006-224049_23c2f327_turn01_a2ca4b2d.jsonl",
+    "sha256": "7F2571F595918B0CE7033C3FEA257457CBB98B8704AC2BD4B3C460025B4927C5"
+  },
+  {
+    "path": "stage-00-chat\\traces\\20261006-225505_2af11d98_turn01_bf048334.jsonl",
+    "sha256": "29A02C4508512C079B86F891FE6F1CB60EC64E3EC348CA0D7AC4BC9797720772"
+  },
+  {
+    "path": "stage-00-chat\\traces\\20261006-225545_2af11d98_turn02_3b6a05c0.jsonl",
+    "sha256": "A75F134830F01D1690CFACB8AE1F418397371593E0D9026931F55977AB1FEE17"
+  },
+  {
+    "path": "stage-00-chat\\traces\\20261006-225718_2af11d98_turn03_060d974b.jsonl",
+    "sha256": "EDB964278960012EF01F4D48007FD6E70AE977C547F22E2BFF21C0395DC993AF"
+  },
+  {
+    "path": "stage-00-chat\\traces\\20261006-225825_2af11d98_turn04_37083eaf.jsonl",
+    "sha256": "604404F24B526E1AFF96435FAB53E6A9A848C2EDB9ACC68A6C3FE736DBF66C09"
+  },
+  {
+    "path": "stage-01-files\\.env.example",
+    "sha256": "B4967E57953F82A8C5194393706A33264560734A0F72A654DFF5F72854774CD4"
+  },
+  {
+    "path": "stage-01-files\\.gitignore",
+    "sha256": "19DE04BCE2BB94202E735075BA48AF61CEB12BDFABDCE7920B07E718E3C6EECE"
+  },
+  {
+    "path": "stage-01-files\\agent.py",
+    "sha256": "77156BF4C3AF63A6E4C074EE8A20A04DBB5AE54A6ECF51698449B1F0A6C9D065"
+  },
+  {
+    "path": "stage-01-files\\app.py",
+    "sha256": "75D4F6C2FDDDACBF42539BC72AE17E5F08ADE7CF40FE67B2834854018DB5E855"
+  },
+  {
+    "path": "stage-01-files\\config.py",
+    "sha256": "34BE9EC23605A97E8199057DBCA5C586BEED9A2EF0C094A12FA6C35EE9336B8D"
+  },
+  {
+    "path": "stage-01-files\\explainer.html",
+    "sha256": "F84EF9E901F44A5655920159717FF27248873C61CDC940ADF9A57141FDB69CFA"
+  },
+  {
+    "path": "stage-01-files\\observer.py",
+    "sha256": "83AE8ECE34A563166B03E149BABBD060ED3E08ED703B36B137A48C7200B03556"
+  },
+  {
+    "path": "stage-01-files\\paths.py",
+    "sha256": "D8E17640AC5E924DE3A69348C525B286FFE6900BDAF0933C12BE95706FD61257"
+  },
+  {
+    "path": "stage-01-files\\prompts.py",
+    "sha256": "FCEC130E789B618E5AB59CE6CF296C53634E949922C1B3630907D47F8A4391DB"
+  },
+  {
+    "path": "stage-01-files\\pyproject.toml",
+    "sha256": "2BFEDC415039C41DDE772B5EBEDAE24BE96243F855D54FE35870CA9EAB5382E1"
+  },
+  {
+    "path": "stage-01-files\\README.md",
+    "sha256": "8A9D1634C953FA7E8D4FC4BFC9194F1BF823F45AF37AFC466857CE859B7CB451"
+  },
+  {
+    "path": "stage-01-files\\reset_workspace.py",
+    "sha256": "D7AF364A0B2CB573358CB763922E6BE3E5DF2E593BE26826F783B95543386D81"
+  },
+  {
+    "path": "stage-01-files\\trace.py",
+    "sha256": "7ECFA81861CF3EAF23399F4CA250ACC188B4630EE25174050729EEADEB3C1967"
+  },
+  {
+    "path": "stage-01-files\\.streamlit\\config.toml",
+    "sha256": "EA2A4F2E5515A5382A9DFA5F1B3CE83AFF5630825779D206E14B1F66A5291CAF"
+  },
+  {
+    "path": "stage-01-files\\fixtures\\data\\weekly_notes.md",
+    "sha256": "C2DED9C105F920A8B107C3B4DE1E5FC69C236993869D981D56FA688A1E92EC43"
+  },
+  {
+    "path": "stage-01-files\\tests\\__init__.py",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-01-files\\tests\\conftest.py",
+    "sha256": "8BADA54DAD2A7BA78DA0D97E0B100DC0E946E4A4AA4D3311AADABA2B9407B4E3"
+  },
+  {
+    "path": "stage-01-files\\tests\\test_agent.py",
+    "sha256": "8A1EF3521AF0036CD59C821C575F36F3A99400C4A33882E6F4CC93FAC62BE04E"
+  },
+  {
+    "path": "stage-01-files\\tests\\test_app.py",
+    "sha256": "EA4E76583AB9DD30041B81C73451375424B0BF248F633DEB00CF425D20352B44"
+  },
+  {
+    "path": "stage-01-files\\tests\\test_files.py",
+    "sha256": "B5235BEDE5C709986D2DBF8304C503D86F0F0BCA401011F8915E09853B3E0409"
+  },
+  {
+    "path": "stage-01-files\\tests\\test_observer.py",
+    "sha256": "A5AF35FAA60423CF9A1C42D5D556E8320D8ED8FFE99798F54008BB52B771DFDE"
+  },
+  {
+    "path": "stage-01-files\\tests\\test_project.py",
+    "sha256": "CB9F370ADBEE3DCD44F83D4214BE7D43A26461FEC6628445F598567509DC1D05"
+  },
+  {
+    "path": "stage-01-files\\tools\\__init__.py",
+    "sha256": "12C0E251FC9C01061FC193EE73BA9F5DE9C1FAF20BDE1DD608BB0EB0E8B7D9A9"
+  },
+  {
+    "path": "stage-01-files\\tools\\files.py",
+    "sha256": "85B9CD077768E24F9DA84E70E3434F35670AC7448F071CEE3342B2487C463C5F"
+  },
+  {
+    "path": "stage-01-files\\traces\\.gitkeep",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-01-files\\traces\\20261006-231800_3c2f3b62_turn01_ff3c71c3.jsonl",
+    "sha256": "7E7D86FB37D3B9BCA9A751D2EA758BBB947EF3FF3A531EBCB816D459516F4B92"
+  },
+  {
+    "path": "stage-01-files\\traces\\20261006-233128_079b317a_turn01_383da1f8.jsonl",
+    "sha256": "7AA61F4E06C1679DAC341DDF42E9CD21C14EF6651F0246031FBAF7D89B816AE8"
+  },
+  {
+    "path": "stage-01-files\\workspace\\.lab-workspace",
+    "sha256": "25B95816FB6B2E77F4AE7C4858A16A538E91115D230332AE0EE64BDA09DED878"
+  },
+  {
+    "path": "stage-01-files\\workspace\\data\\weekly_notes.md",
+    "sha256": "C2DED9C105F920A8B107C3B4DE1E5FC69C236993869D981D56FA688A1E92EC43"
+  },
+  {
+    "path": "stage-02-skills\\.env.example",
+    "sha256": "B4967E57953F82A8C5194393706A33264560734A0F72A654DFF5F72854774CD4"
+  },
+  {
+    "path": "stage-02-skills\\.gitignore",
+    "sha256": "19DE04BCE2BB94202E735075BA48AF61CEB12BDFABDCE7920B07E718E3C6EECE"
+  },
+  {
+    "path": "stage-02-skills\\agent.py",
+    "sha256": "F0C715B35404E28D94D52DE4BBEA8343F687AEF7B560BF4184BD7D90233AFD04"
+  },
+  {
+    "path": "stage-02-skills\\app.py",
+    "sha256": "75D4F6C2FDDDACBF42539BC72AE17E5F08ADE7CF40FE67B2834854018DB5E855"
+  },
+  {
+    "path": "stage-02-skills\\config.py",
+    "sha256": "3177A08D21F986FA6F4770C00DDB0CA90CCD7AA65F02DB962FA0ADD8ADE96CE2"
+  },
+  {
+    "path": "stage-02-skills\\explainer.html",
+    "sha256": "BF0A32B56D6177E93DA66FA3DCD01625160F2C6B6EF699CF8C0EB91F0C0D8345"
+  },
+  {
+    "path": "stage-02-skills\\observer.py",
+    "sha256": "83AE8ECE34A563166B03E149BABBD060ED3E08ED703B36B137A48C7200B03556"
+  },
+  {
+    "path": "stage-02-skills\\paths.py",
+    "sha256": "D8E17640AC5E924DE3A69348C525B286FFE6900BDAF0933C12BE95706FD61257"
+  },
+  {
+    "path": "stage-02-skills\\prompts.py",
+    "sha256": "38760A60471C34A106CB93BD352FB3379A8AFD6805064F9654395A3C2890CE46"
+  },
+  {
+    "path": "stage-02-skills\\pyproject.toml",
+    "sha256": "91F8AC349F32FF307A0B4A9652BA5F5B226B790BE48B53129F4407DE23634ED6"
+  },
+  {
+    "path": "stage-02-skills\\README.md",
+    "sha256": "BC6B1596E57A765E312104B3A92C1275C17D2ECAA9BC71F362782875E01F586C"
+  },
+  {
+    "path": "stage-02-skills\\reset_workspace.py",
+    "sha256": "D7AF364A0B2CB573358CB763922E6BE3E5DF2E593BE26826F783B95543386D81"
+  },
+  {
+    "path": "stage-02-skills\\skill_catalog.py",
+    "sha256": "9F70E341A6E850CCD2C1621BCC92CA30C764175DD5C1753B2F53F6E2C521C76A"
+  },
+  {
+    "path": "stage-02-skills\\trace.py",
+    "sha256": "7ECFA81861CF3EAF23399F4CA250ACC188B4630EE25174050729EEADEB3C1967"
+  },
+  {
+    "path": "stage-02-skills\\.streamlit\\config.toml",
+    "sha256": "EA2A4F2E5515A5382A9DFA5F1B3CE83AFF5630825779D206E14B1F66A5291CAF"
+  },
+  {
+    "path": "stage-02-skills\\fixtures\\data\\weekly_notes.md",
+    "sha256": "C2DED9C105F920A8B107C3B4DE1E5FC69C236993869D981D56FA688A1E92EC43"
+  },
+  {
+    "path": "stage-02-skills\\fixtures\\skills\\weekly-report\\SKILL.md",
+    "sha256": "66AC86B7B3BEA7A85D0FB6D051959A809889FC2E58F014080B70AE417D8ED8AE"
+  },
+  {
+    "path": "stage-02-skills\\fixtures\\skills\\weekly-report\\references\\report-template.md",
+    "sha256": "3D41C4D2B756CFAB553AD46D5CBC496B62DF91E0E028C5E5CA126F1297F64216"
+  },
+  {
+    "path": "stage-02-skills\\tests\\__init__.py",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-02-skills\\tests\\conftest.py",
+    "sha256": "8BADA54DAD2A7BA78DA0D97E0B100DC0E946E4A4AA4D3311AADABA2B9407B4E3"
+  },
+  {
+    "path": "stage-02-skills\\tests\\test_agent.py",
+    "sha256": "30BD7AC5E8237967B2AFEB378DE586C89EFAA9495ABC2B376B0B5406A61F0BE8"
+  },
+  {
+    "path": "stage-02-skills\\tests\\test_app.py",
+    "sha256": "364CFEDF61CE8A3BF13EE98E39CA94160CE91B548F5E28AB42AD5D57ABE370CE"
+  },
+  {
+    "path": "stage-02-skills\\tests\\test_files.py",
+    "sha256": "B5235BEDE5C709986D2DBF8304C503D86F0F0BCA401011F8915E09853B3E0409"
+  },
+  {
+    "path": "stage-02-skills\\tests\\test_observer.py",
+    "sha256": "A5AF35FAA60423CF9A1C42D5D556E8320D8ED8FFE99798F54008BB52B771DFDE"
+  },
+  {
+    "path": "stage-02-skills\\tests\\test_project.py",
+    "sha256": "E9F14D2D32C1021EE3B5DB3C0FCAA0A6476CAA2BA5DEFF3DC3A91DDD735F790C"
+  },
+  {
+    "path": "stage-02-skills\\tests\\test_skill_catalog.py",
+    "sha256": "5E2F70A9560AAD5D8BC2198DBC29B0A07E5D41D339C6D4EC599DE24DF25352FA"
+  },
+  {
+    "path": "stage-02-skills\\tools\\__init__.py",
+    "sha256": "12C0E251FC9C01061FC193EE73BA9F5DE9C1FAF20BDE1DD608BB0EB0E8B7D9A9"
+  },
+  {
+    "path": "stage-02-skills\\tools\\files.py",
+    "sha256": "85B9CD077768E24F9DA84E70E3434F35670AC7448F071CEE3342B2487C463C5F"
+  },
+  {
+    "path": "stage-02-skills\\traces\\.gitkeep",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-02-skills\\traces\\20261006-234553_9cf27c90_turn01_2465280a.jsonl",
+    "sha256": "9B9258109206335426EE076A89150730211FB0C739A70DA9E3EBF3020D17D72A"
+  },
+  {
+    "path": "stage-02-skills\\workspace\\.lab-workspace",
+    "sha256": "25B95816FB6B2E77F4AE7C4858A16A538E91115D230332AE0EE64BDA09DED878"
+  },
+  {
+    "path": "stage-02-skills\\workspace\\data\\weekly_notes.md",
+    "sha256": "C2DED9C105F920A8B107C3B4DE1E5FC69C236993869D981D56FA688A1E92EC43"
+  },
+  {
+    "path": "stage-02-skills\\workspace\\skills\\weekly-report\\SKILL.md",
+    "sha256": "66AC86B7B3BEA7A85D0FB6D051959A809889FC2E58F014080B70AE417D8ED8AE"
+  },
+  {
+    "path": "stage-02-skills\\workspace\\skills\\weekly-report\\references\\report-template.md",
+    "sha256": "3D41C4D2B756CFAB553AD46D5CBC496B62DF91E0E028C5E5CA126F1297F64216"
+  },
+  {
+    "path": "stage-03-bash\\.env.example",
+    "sha256": "B4967E57953F82A8C5194393706A33264560734A0F72A654DFF5F72854774CD4"
+  },
+  {
+    "path": "stage-03-bash\\.gitignore",
+    "sha256": "19DE04BCE2BB94202E735075BA48AF61CEB12BDFABDCE7920B07E718E3C6EECE"
+  },
+  {
+    "path": "stage-03-bash\\agent.py",
+    "sha256": "1B298F8C3F66269A0FCD9F29454CD357E768911290ADC2AD397C120C60310298"
+  },
+  {
+    "path": "stage-03-bash\\app.py",
+    "sha256": "75D4F6C2FDDDACBF42539BC72AE17E5F08ADE7CF40FE67B2834854018DB5E855"
+  },
+  {
+    "path": "stage-03-bash\\config.py",
+    "sha256": "9239E36335544DF08FE8E307ADDA2201B0D91B6562E4990D24E70E8E054DA2CE"
+  },
+  {
+    "path": "stage-03-bash\\explainer.html",
+    "sha256": "587D1249627A943640CFBF8CA98D16CCFCF80B6D2439CEB9302CDDB4356CB4A1"
+  },
+  {
+    "path": "stage-03-bash\\observer.py",
+    "sha256": "83AE8ECE34A563166B03E149BABBD060ED3E08ED703B36B137A48C7200B03556"
+  },
+  {
+    "path": "stage-03-bash\\paths.py",
+    "sha256": "D8E17640AC5E924DE3A69348C525B286FFE6900BDAF0933C12BE95706FD61257"
+  },
+  {
+    "path": "stage-03-bash\\prompts.py",
+    "sha256": "D2AB0438346E7C041BA98CA65F7D4A370B97340D5E8A0FFC1C57ED4B69703C60"
+  },
+  {
+    "path": "stage-03-bash\\pyproject.toml",
+    "sha256": "7A98C7D75F4BEC8BD2853D21E1C49BB83A8267093E57F1DFBE49344BD326A0BD"
+  },
+  {
+    "path": "stage-03-bash\\README.md",
+    "sha256": "7A3ABD785A4598CE20C24F496B15850C5301686038D7A39D4D58830B79B263FE"
+  },
+  {
+    "path": "stage-03-bash\\reset_workspace.py",
+    "sha256": "D7AF364A0B2CB573358CB763922E6BE3E5DF2E593BE26826F783B95543386D81"
+  },
+  {
+    "path": "stage-03-bash\\skill_catalog.py",
+    "sha256": "9F70E341A6E850CCD2C1621BCC92CA30C764175DD5C1753B2F53F6E2C521C76A"
+  },
+  {
+    "path": "stage-03-bash\\trace.py",
+    "sha256": "7ECFA81861CF3EAF23399F4CA250ACC188B4630EE25174050729EEADEB3C1967"
+  },
+  {
+    "path": "stage-03-bash\\.streamlit\\config.toml",
+    "sha256": "EA2A4F2E5515A5382A9DFA5F1B3CE83AFF5630825779D206E14B1F66A5291CAF"
+  },
+  {
+    "path": "stage-03-bash\\fixtures\\data\\weekly_notes.md",
+    "sha256": "C2DED9C105F920A8B107C3B4DE1E5FC69C236993869D981D56FA688A1E92EC43"
+  },
+  {
+    "path": "stage-03-bash\\fixtures\\skills\\weekly-report\\SKILL.md",
+    "sha256": "66AC86B7B3BEA7A85D0FB6D051959A809889FC2E58F014080B70AE417D8ED8AE"
+  },
+  {
+    "path": "stage-03-bash\\fixtures\\skills\\weekly-report\\references\\report-template.md",
+    "sha256": "3D41C4D2B756CFAB553AD46D5CBC496B62DF91E0E028C5E5CA126F1297F64216"
+  },
+  {
+    "path": "stage-03-bash\\tests\\__init__.py",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-03-bash\\tests\\conftest.py",
+    "sha256": "8BADA54DAD2A7BA78DA0D97E0B100DC0E946E4A4AA4D3311AADABA2B9407B4E3"
+  },
+  {
+    "path": "stage-03-bash\\tests\\test_agent.py",
+    "sha256": "979E8290A613E0B7CE0A0E691048E3E00751E0D95ADFB3ABFDCEAA42A346F59C"
+  },
+  {
+    "path": "stage-03-bash\\tests\\test_app.py",
+    "sha256": "635C384A875F1D26CBE5BB6F203A215BB833BA31511C3E02F676E7A1741529D4"
+  },
+  {
+    "path": "stage-03-bash\\tests\\test_bash.py",
+    "sha256": "F0DB817CB23DF5C771FBD66F3980D453DBC3A4F5494E0CAFFD8BE8F4F7E30524"
+  },
+  {
+    "path": "stage-03-bash\\tests\\test_files.py",
+    "sha256": "B5235BEDE5C709986D2DBF8304C503D86F0F0BCA401011F8915E09853B3E0409"
+  },
+  {
+    "path": "stage-03-bash\\tests\\test_observer.py",
+    "sha256": "A5AF35FAA60423CF9A1C42D5D556E8320D8ED8FFE99798F54008BB52B771DFDE"
+  },
+  {
+    "path": "stage-03-bash\\tests\\test_project.py",
+    "sha256": "3DAEFF246805D33B0105E7633EE91E49513326F0522050CE7DC5CF51D4CB15FB"
+  },
+  {
+    "path": "stage-03-bash\\tests\\test_skill_catalog.py",
+    "sha256": "5E2F70A9560AAD5D8BC2198DBC29B0A07E5D41D339C6D4EC599DE24DF25352FA"
+  },
+  {
+    "path": "stage-03-bash\\tools\\__init__.py",
+    "sha256": "6CD94A25E733F559567C0C3EE9310A52D4011109373219CD6AB85F0CF673B3C7"
+  },
+  {
+    "path": "stage-03-bash\\tools\\bash.py",
+    "sha256": "60CA252D1BB64F29D3D28919932A41F66F9737CA47633664DD066C75256D748D"
+  },
+  {
+    "path": "stage-03-bash\\tools\\files.py",
+    "sha256": "85B9CD077768E24F9DA84E70E3434F35670AC7448F071CEE3342B2487C463C5F"
+  },
+  {
+    "path": "stage-03-bash\\traces\\.gitkeep",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-03-bash\\traces\\20261006-235751_308834dd_turn01_19a30368.jsonl",
+    "sha256": "752EEFE01D238F44414728113C642801864AF1D6C9137DA281858D3E413E8E5D"
+  },
+  {
+    "path": "stage-03-bash\\traces\\20261006-235909_308834dd_turn02_f70c7aca.jsonl",
+    "sha256": "D04DB91C8C04E852E7345C77A8E2EDCB22492F81E8FB99883D26838B4D52BB84"
+  },
+  {
+    "path": "stage-03-bash\\traces\\20261006-235930_308834dd_turn03_1551d982.jsonl",
+    "sha256": "81D4BB9F9FB3513FB967BD45F2F579B28A6477EB4FF3F0D1E6E33CBAED7948F7"
+  },
+  {
+    "path": "stage-03-bash\\traces\\20261007-000037_308834dd_turn04_02478f91.jsonl",
+    "sha256": "8F542F0C794830E3462EB68DC954D0580878D086388D0813F3B1ACA61D89DDB8"
+  },
+  {
+    "path": "stage-03-bash\\traces\\20261007-000111_308834dd_turn05_620ccc49.jsonl",
+    "sha256": "A9BC5387A43F4FD646B95516D68C2EB2D079FE946FBBCA9959DB578A1F8A19EB"
+  },
+  {
+    "path": "stage-03-bash\\workspace\\.lab-workspace",
+    "sha256": "25B95816FB6B2E77F4AE7C4858A16A538E91115D230332AE0EE64BDA09DED878"
+  },
+  {
+    "path": "stage-03-bash\\workspace\\data\\weekly_notes.md",
+    "sha256": "C2DED9C105F920A8B107C3B4DE1E5FC69C236993869D981D56FA688A1E92EC43"
+  },
+  {
+    "path": "stage-03-bash\\workspace\\skills\\weekly-report\\SKILL.md",
+    "sha256": "66AC86B7B3BEA7A85D0FB6D051959A809889FC2E58F014080B70AE417D8ED8AE"
+  },
+  {
+    "path": "stage-03-bash\\workspace\\skills\\weekly-report\\references\\report-template.md",
+    "sha256": "3D41C4D2B756CFAB553AD46D5CBC496B62DF91E0E028C5E5CA126F1297F64216"
+  },
+  {
+    "path": "stage-04-script-skill\\.env.example",
+    "sha256": "B4967E57953F82A8C5194393706A33264560734A0F72A654DFF5F72854774CD4"
+  },
+  {
+    "path": "stage-04-script-skill\\.gitignore",
+    "sha256": "19DE04BCE2BB94202E735075BA48AF61CEB12BDFABDCE7920B07E718E3C6EECE"
+  },
+  {
+    "path": "stage-04-script-skill\\agent.py",
+    "sha256": "F27522F0A9851ED8F1519C6D4F117FFED2E0DBCA52E831575F8ADBD8153A5408"
+  },
+  {
+    "path": "stage-04-script-skill\\app.py",
+    "sha256": "75D4F6C2FDDDACBF42539BC72AE17E5F08ADE7CF40FE67B2834854018DB5E855"
+  },
+  {
+    "path": "stage-04-script-skill\\config.py",
+    "sha256": "B80C27183B7C0703BE6226BAD8ED5DBB27C4D6EF2A414CE4D5130CB50F1FCE8A"
+  },
+  {
+    "path": "stage-04-script-skill\\explainer.html",
+    "sha256": "0F507842B18925EE551ECD4820834E8F199A380CE200DBCC2750B312B72AADC1"
+  },
+  {
+    "path": "stage-04-script-skill\\observer.py",
+    "sha256": "83AE8ECE34A563166B03E149BABBD060ED3E08ED703B36B137A48C7200B03556"
+  },
+  {
+    "path": "stage-04-script-skill\\paths.py",
+    "sha256": "D8E17640AC5E924DE3A69348C525B286FFE6900BDAF0933C12BE95706FD61257"
+  },
+  {
+    "path": "stage-04-script-skill\\prompts.py",
+    "sha256": "D2AB0438346E7C041BA98CA65F7D4A370B97340D5E8A0FFC1C57ED4B69703C60"
+  },
+  {
+    "path": "stage-04-script-skill\\pyproject.toml",
+    "sha256": "F77D772B789EFD3A288A66A651B12DC7A8ABBACD902E879B29F9B667FDD738AE"
+  },
+  {
+    "path": "stage-04-script-skill\\README.md",
+    "sha256": "65005C9B01EAE8FDC79FADA8F2A7D7CDEAFDE24BA8F829CDF5F38CB359CD3B99"
+  },
+  {
+    "path": "stage-04-script-skill\\reset_workspace.py",
+    "sha256": "D7AF364A0B2CB573358CB763922E6BE3E5DF2E593BE26826F783B95543386D81"
+  },
+  {
+    "path": "stage-04-script-skill\\skill_catalog.py",
+    "sha256": "9F70E341A6E850CCD2C1621BCC92CA30C764175DD5C1753B2F53F6E2C521C76A"
+  },
+  {
+    "path": "stage-04-script-skill\\trace.py",
+    "sha256": "7ECFA81861CF3EAF23399F4CA250ACC188B4630EE25174050729EEADEB3C1967"
+  },
+  {
+    "path": "stage-04-script-skill\\.streamlit\\config.toml",
+    "sha256": "EA2A4F2E5515A5382A9DFA5F1B3CE83AFF5630825779D206E14B1F66A5291CAF"
+  },
+  {
+    "path": "stage-04-script-skill\\fixtures\\data\\tasks.csv",
+    "sha256": "4751E43A3E96590283A77B5DF1A81F561DE7C8271F0B96917125F8E93866195B"
+  },
+  {
+    "path": "stage-04-script-skill\\fixtures\\data\\weekly_notes.md",
+    "sha256": "C2DED9C105F920A8B107C3B4DE1E5FC69C236993869D981D56FA688A1E92EC43"
+  },
+  {
+    "path": "stage-04-script-skill\\fixtures\\skills\\csv-quality\\SKILL.md",
+    "sha256": "1ECBFBF9B6E39D159D98E4B96B0084DAD133E8FBCF48F243EA04C268E9E9B576"
+  },
+  {
+    "path": "stage-04-script-skill\\fixtures\\skills\\csv-quality\\references\\report-template.md",
+    "sha256": "E8C48C56D3E095C6F5802EF45F032BA3DB7A40A5897AC2D401D4FFAE9A7B782B"
+  },
+  {
+    "path": "stage-04-script-skill\\fixtures\\skills\\csv-quality\\scripts\\check_csv.py",
+    "sha256": "203576C44B137938D4CF950EAB6ECE579B27B7362663AD25C7F4151D058A2D6E"
+  },
+  {
+    "path": "stage-04-script-skill\\fixtures\\skills\\weekly-report\\SKILL.md",
+    "sha256": "66AC86B7B3BEA7A85D0FB6D051959A809889FC2E58F014080B70AE417D8ED8AE"
+  },
+  {
+    "path": "stage-04-script-skill\\fixtures\\skills\\weekly-report\\references\\report-template.md",
+    "sha256": "3D41C4D2B756CFAB553AD46D5CBC496B62DF91E0E028C5E5CA126F1297F64216"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\__init__.py",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\conftest.py",
+    "sha256": "8BADA54DAD2A7BA78DA0D97E0B100DC0E946E4A4AA4D3311AADABA2B9407B4E3"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\test_agent.py",
+    "sha256": "A8BB13F906BE61F8B1AA730C7A412BF78C10264EA81899460EB5C2BA031C1805"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\test_app.py",
+    "sha256": "A3817A862DDF547B611DFD8D2B1543F7AC27A66373C45C9D914BC9ABA6CFF684"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\test_bash.py",
+    "sha256": "F0DB817CB23DF5C771FBD66F3980D453DBC3A4F5494E0CAFFD8BE8F4F7E30524"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\test_check_csv.py",
+    "sha256": "09829AB869304D84D727AB7B3830655349CEB0EAA68160F3BFD98B3229F3E46B"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\test_files.py",
+    "sha256": "B5235BEDE5C709986D2DBF8304C503D86F0F0BCA401011F8915E09853B3E0409"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\test_observer.py",
+    "sha256": "A5AF35FAA60423CF9A1C42D5D556E8320D8ED8FFE99798F54008BB52B771DFDE"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\test_project.py",
+    "sha256": "700FB15F856835D694AAAEE8F6370B7EAE1DBDD2226699186E8475E504CDF738"
+  },
+  {
+    "path": "stage-04-script-skill\\tests\\test_skill_catalog.py",
+    "sha256": "F279127B7E532BF7C3A379725CC77056D5C24AA6322D09F8A59DA40789B601AD"
+  },
+  {
+    "path": "stage-04-script-skill\\tools\\__init__.py",
+    "sha256": "6CD94A25E733F559567C0C3EE9310A52D4011109373219CD6AB85F0CF673B3C7"
+  },
+  {
+    "path": "stage-04-script-skill\\tools\\bash.py",
+    "sha256": "60CA252D1BB64F29D3D28919932A41F66F9737CA47633664DD066C75256D748D"
+  },
+  {
+    "path": "stage-04-script-skill\\tools\\files.py",
+    "sha256": "85B9CD077768E24F9DA84E70E3434F35670AC7448F071CEE3342B2487C463C5F"
+  },
+  {
+    "path": "stage-04-script-skill\\traces\\.gitkeep",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "stage-04-script-skill\\traces\\20261007-000957_5251f93e_turn01_f86764bb.jsonl",
+    "sha256": "A4233E4C12A702BB9E41D642EF8AAC6E20604CA985C1C48DB56AF175149F20F6"
+  },
+  {
+    "path": "stage-04-script-skill\\workspace\\.lab-workspace",
+    "sha256": "25B95816FB6B2E77F4AE7C4858A16A538E91115D230332AE0EE64BDA09DED878"
+  },
+  {
+    "path": "stage-04-script-skill\\workspace\\data\\tasks.csv",
+    "sha256": "4751E43A3E96590283A77B5DF1A81F561DE7C8271F0B96917125F8E93866195B"
+  },
+  {
+    "path": "stage-04-script-skill\\workspace\\data\\weekly_notes.md",
+    "sha256": "C2DED9C105F920A8B107C3B4DE1E5FC69C236993869D981D56FA688A1E92EC43"
+  },
+  {
+    "path": "stage-04-script-skill\\workspace\\skills\\csv-quality\\SKILL.md",
+    "sha256": "1ECBFBF9B6E39D159D98E4B96B0084DAD133E8FBCF48F243EA04C268E9E9B576"
+  },
+  {
+    "path": "stage-04-script-skill\\workspace\\skills\\csv-quality\\references\\report-template.md",
+    "sha256": "E8C48C56D3E095C6F5802EF45F032BA3DB7A40A5897AC2D401D4FFAE9A7B782B"
+  },
+  {
+    "path": "stage-04-script-skill\\workspace\\skills\\csv-quality\\scripts\\check_csv.py",
+    "sha256": "203576C44B137938D4CF950EAB6ECE579B27B7362663AD25C7F4151D058A2D6E"
+  },
+  {
+    "path": "stage-04-script-skill\\workspace\\skills\\weekly-report\\SKILL.md",
+    "sha256": "66AC86B7B3BEA7A85D0FB6D051959A809889FC2E58F014080B70AE417D8ED8AE"
+  },
+  {
+    "path": "stage-04-script-skill\\workspace\\skills\\weekly-report\\references\\report-template.md",
+    "sha256": "3D41C4D2B756CFAB553AD46D5CBC496B62DF91E0E028C5E5CA126F1297F64216"
+  }
+]

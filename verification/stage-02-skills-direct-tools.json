@@ -1,0 +1,124 @@
+{
+  "tools": [
+    {
+      "name": "read_file",
+      "description": "Đọc một file văn bản UTF-8 trong workspace và trả về JSON.\n\n    path là đường dẫn tương đối workspace, ví dụ: data/weekly_notes.md, output/summary.md.\n    Dùng để đọc dữ liệu đầu vào, file SKILL.md của một skill và các file reference trong thư mục skill.\n    Thành công: {\"ok\": true, \"path\": ..., \"content\": ...}. Lỗi: {\"ok\": false, \"error\": {\"code\": ..., \"message\": ...}}.",
+      "parameters": {
+        "properties": {
+          "path": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "path"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "name": "write_file",
+      "description": "Ghi nội dung văn bản UTF-8 vào một file dưới output/ của workspace và trả về JSON.\n\n    path là đường dẫn tương đối workspace và phải bắt đầu bằng output/, ví dụ output/summary.md.\n    Tự tạo thư mục con. Ghi đè nếu file đã tồn tại.\n    Thành công: {\"ok\": true, \"path\": ..., \"bytes\": ..., \"status\": \"created\" | \"updated\"}. Lỗi: {\"ok\": false, \"error\": {...}}.",
+      "parameters": {
+        "properties": {
+          "path": {
+            "type": "string"
+          },
+          "content": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "path",
+          "content"
+        ],
+        "type": "object"
+      }
+    },
+    {
+      "name": "list_files",
+      "description": "List direct children of a workspace-relative directory, sorted by name.\n\n    Each item has name, workspace-relative path and type (file or directory).\n    Does not recurse. Discover current filenames before reading documents.\n    Invalid paths, missing directories and file paths return structured JSON errors.",
+      "parameters": {
+        "properties": {
+          "path": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "path"
+        ],
+        "type": "object"
+      }
+    }
+  ],
+  "cases": [
+    {
+      "input": "data/policies",
+      "result": {
+        "ok": true,
+        "path": "data/policies",
+        "items": [
+          {
+            "name": "refund-alpha.md",
+            "path": "data/policies/refund-alpha.md",
+            "type": "file"
+          },
+          {
+            "name": "refund-beta.md",
+            "path": "data/policies/refund-beta.md",
+            "type": "file"
+          }
+        ]
+      }
+    },
+    {
+      "input": "data/weekly_notes.md",
+      "result": {
+        "ok": false,
+        "error": {
+          "code": "NOT_A_DIRECTORY",
+          "message": "Not a directory: data/weekly_notes.md"
+        }
+      }
+    },
+    {
+      "input": "data/missing",
+      "result": {
+        "ok": false,
+        "error": {
+          "code": "DIRECTORY_NOT_FOUND",
+          "message": "Directory not found: data/missing"
+        }
+      }
+    },
+    {
+      "input": "../outside",
+      "result": {
+        "ok": false,
+        "error": {
+          "code": "PATH_OUTSIDE_WORKSPACE",
+          "message": "Không chấp nhận đường dẫn tuyệt đối: ../outside. Dùng đường dẫn tương đối workspace."
+        }
+      }
+    },
+    {
+      "input": "/tmp/dummy",
+      "result": {
+        "ok": false,
+        "error": {
+          "code": "PATH_OUTSIDE_WORKSPACE",
+          "message": "Không chấp nhận đường dẫn tuyệt đối: /tmp/dummy. Dùng đường dẫn tương đối workspace."
+        }
+      }
+    },
+    {
+      "input": "~/dummy",
+      "result": {
+        "ok": false,
+        "error": {
+          "code": "PATH_OUTSIDE_WORKSPACE",
+          "message": "Không chấp nhận đường dẫn tuyệt đối: ~/dummy. Dùng đường dẫn tương đối workspace."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "prompt": "Tính tổng giờ theo người trong data/workload.csv và xác định người quá tải.",
+  "trace": "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-2/traces/20261007-212008_dc2a0836_turn01_4a72b37b.jsonl",
+  "answer": "Yêu cầu của bạn khớp với skill `csv-quality`. Theo hướng dẫn, tôi cần biết **ngưỡng giờ quá tải** (ví dụ: tối đa bao nhiêu giờ) từ bạn trước khi tiến hành phân tích và tạo báo cáo.\n\nVui lòng cung cấp ngưỡng giờ quá tải để tôi thực hiện tiếp.",
+  "error": null,
+  "conversation_id": "dc2a0836aacc408fba8a254ee128a16c"
+}

@@ -1,0 +1,14 @@
+{
+  "command": [
+    "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/.runtime/venv/bin/python",
+    "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-2/stage-04-script-skill/workspace/skills/csv-quality/scripts/check_csv.py",
+    "--input",
+    "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-2/stage-04-script-skill/workspace/data/workload-edge.csv",
+    "--max-hours",
+    "0"
+  ],
+  "exit_code": 0,
+  "stderr": "",
+  "input_sha256_before": "656870011c9e48baed518c2c917abc4805f736bf6f9c141531affcbb5dee8b14",
+  "input_sha256_after": "656870011c9e48baed518c2c917abc4805f736bf6f9c141531affcbb5dee8b14"
+}

@@ -1,0 +1,14 @@
+{
+  "command": [
+    "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/.runtime/venv/bin/python",
+    "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-2/stage-04-script-skill/workspace/skills/csv-quality/scripts/check_csv.py",
+    "--input",
+    "/mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-2/stage-04-script-skill/workspace/data/missing.csv",
+    "--max-hours",
+    "8"
+  ],
+  "exit_code": 1,
+  "stderr": "ERROR: Không đọc được file /mnt/d/UIT/HocTrenTruong/HK5/SE373_Xay_Dung_He_Thong_Agentic_AI/Lab5/submission-d05/block-2/stage-04-script-skill/workspace/data/missing.csv: No such file or directory\n",
+  "input_sha256_before": null,
+  "input_sha256_after": null
+}

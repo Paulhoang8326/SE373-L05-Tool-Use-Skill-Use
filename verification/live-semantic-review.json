@@ -1,0 +1,31 @@
+{
+  "checks": {
+    "fresh_conversations": true,
+    "all_runs_completed": true,
+    "case-a-before-rename_discovery_and_reads": true,
+    "case-a-before-rename_discovery_before_policy_read": true,
+    "case-a-before-rename_answer": true,
+    "case-b-before-rename_discovery_and_reads": true,
+    "case-b-before-rename_discovery_before_policy_read": true,
+    "case-b-before-rename_answer": true,
+    "case-a-renamed_discovery_and_reads": true,
+    "case-a-renamed_discovery_before_policy_read": true,
+    "case-a-renamed_answer": true,
+    "case-b-renamed_discovery_and_reads": true,
+    "case-b-renamed_discovery_before_policy_read": true,
+    "case-b-renamed_answer": true,
+    "missing_activation_asks_without_conclusion": true,
+    "threshold_8_script_json": true,
+    "threshold_8_report_written": true,
+    "threshold_8_report_fields": true,
+    "threshold_9_script_json": true,
+    "threshold_9_report_written": true,
+    "threshold_9_report_fields": true,
+    "missing_threshold_asks_without_execution": true,
+    "missing_file_preflight_error_no_report": true,
+    "missing_file_script_exit_error_no_report": true
+  },
+  "all_passed": true,
+  "scope": "Single observed run per case; fixed evidence assertions, not a reliability benchmark.",
+  "baseline_observations": "Stage 00 cannot access policy; Stage 03 needed 3 SyntaxError retries then returned correct totals."
+}
